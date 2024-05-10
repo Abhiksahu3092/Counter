@@ -14,9 +14,9 @@ function App() {
       
       //suppose we want to increase the value of countvalue by 4
       setcountvalue((prev)=>prev+1)
+      /*setcountvalue((prev)=>prev+1)
       setcountvalue((prev)=>prev+1)
-      setcountvalue((prev)=>prev+1)
-      setcountvalue((prev)=>prev+1)
+      setcountvalue((prev)=>prev+1)*/
     }
   }
   const decrease=()=>{
